@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roster-app-proto/static/css/main.cd9ac107.css",
+    "main.js": "/roster-app-proto/static/js/main.6d848044.js",
+    "static/js/787.1471e80a.chunk.js": "/roster-app-proto/static/js/787.1471e80a.chunk.js",
+    "index.html": "/roster-app-proto/index.html",
+    "main.cd9ac107.css.map": "/roster-app-proto/static/css/main.cd9ac107.css.map",
+    "main.6d848044.js.map": "/roster-app-proto/static/js/main.6d848044.js.map",
+    "787.1471e80a.chunk.js.map": "/roster-app-proto/static/js/787.1471e80a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9ac107.css",
+    "static/js/main.6d848044.js"
+  ]
+}
